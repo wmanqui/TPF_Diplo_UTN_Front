@@ -4,8 +4,8 @@ const Header = (prompt) =>{
     return(
         <header>
             <div className="holder">
-                <img src="img/logo.png" width="120" alt="Transportes X"/>
-                <h1>Mucho Por Vivir</h1>
+                <img src="img/logo.png" width="300" alt="Transportes X"/>
+                <h1>Empresa de Soluciones Tecnologicas</h1>
             </div>
         </header>
 
