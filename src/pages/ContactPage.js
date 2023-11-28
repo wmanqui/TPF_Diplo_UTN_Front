@@ -18,10 +18,10 @@ const ContactPage = (props) => {
     const [msg, setMsg] = useState(''); //almacena y muestra el msj recibido por la API para indicar al usuario que su información fue enviada
     const [formData, setFormData] = useState(initialForm);
 
-    const handleChange = e =>{
+    const handleChange = e => {
         const { name, value } = e.target;
-        setFormData(oldData =>({
-               oldData,
+        setFormData(oldData => ({
+            ...oldData,
             [name]: value //forma dinamica
         }));
     }
@@ -30,7 +30,7 @@ const ContactPage = (props) => {
         e.preventDefault();
         setMsg('');
         setSending(true)
-        const response = await axios.post('http://localhost:3000/api/contacto', formData);
+        const response = await axios.post('http://localhost:3000/api/contact', formData);
         setSending(false);
         setMsg(response.data.message);
         if(response.data.error === false){
