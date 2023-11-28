@@ -66,6 +66,15 @@ const ContactPage = (props) => {
                         </p>
                 </form>
             </div>
+            <div>
+                <h2>Otras vias de comunicación</h2>
+                 <p>Tambien puede contactarse utilizando los siguientes medios</p>
+                 <ul>
+                    <li>Teléfono: (2964)432731</li>
+                    <li>email: contacto@kren.com.ar</li>
+                 </ul>
+
+            </div>
         </main>
     )
 }
