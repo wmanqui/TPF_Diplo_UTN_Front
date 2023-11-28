@@ -72,6 +72,9 @@ const ContactPage = (props) => {
                  <ul>
                     <li>Teléfono: (2964)432731</li>
                     <li>email: contacto@kren.com.ar</li>
+                    <li>facebock: </li>
+                    <li>Twitter: </li>
+                    <li>Skype: </li>
                  </ul>
 
             </div>
