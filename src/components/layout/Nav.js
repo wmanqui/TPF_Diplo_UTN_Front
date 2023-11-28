@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
+import '../../styles/components/layout/Nav.css'
 
-//import React from "react";
 
 const Nav = (prompt) =>{
     return(

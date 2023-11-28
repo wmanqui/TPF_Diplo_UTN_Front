@@ -4,7 +4,7 @@ const HomePage = (prompt) =>{
     return(
         <main className="holder">
             <div className="home_img">
-                <img src="img/home/img_02.png" alt="Manos-cinta"/>
+                <img src="img/home/img_01.png" alt="Pantalla"/>
             </div>
             <div className="columns">
                 <div className="welcome">
