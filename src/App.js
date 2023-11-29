@@ -15,7 +15,6 @@ function App() {
   return (
     <div className="App">
       <Header/>
-        <h2>Seccion de Header</h2>
       <BrowserRouter>
         <Nav/>
         <Routes>

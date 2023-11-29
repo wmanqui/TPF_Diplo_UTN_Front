@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/components/pages/ContactPage.css';
 //Se utiliza estas dependencias para controlar el formulario,
 //el feedback del mismo y realizar el envio de los datos cargados
 //por el usuario hacia la api.
@@ -66,7 +67,7 @@ const ContactPage = (props) => {
                         </p>
                 </form>
             </div>
-            <div>
+            <div className="datos">
                 <h2>Otras vias de comunicación</h2>
                  <p>Tambien puede contactarse utilizando los siguientes medios</p>
                  <ul>
