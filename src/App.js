@@ -9,7 +9,7 @@ import HomePage from "./pages/HomePage";
 import UsPage from "./pages/UsPage";
 import NovedadesPage from "./pages/NovedadesPage";
 
-//import './App.css';
+import './App.css';
 
 function App() {
   return (

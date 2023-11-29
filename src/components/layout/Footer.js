@@ -6,8 +6,9 @@ const Footer = (prompt) =>{
         <footer>
             <p>Diseñado por Walter Manqui -&copy; 2023</p>
         </footer>
-        
     );
 }
 
 export default Footer;
+
+
