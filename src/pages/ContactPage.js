@@ -43,7 +43,7 @@ const ContactPage = (props) => {
         <main className="holder contacto">
             <div>
                 <h2>Contacto Rapido</h2>
-                <form className="formulario" onSubmit={handleSubmit}>
+                <form action="/contact" method="post" className="formulario" onSubmit={handleSubmit}>
                     <p>
                         <label>Nombre</label>
                         <input type='text' name='nombre' value={formData.nombre} onChange={handleChange}/>
