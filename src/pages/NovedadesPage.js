@@ -25,7 +25,7 @@ const NovedadesPage = (prompt) =>{
             ) : (
                 novedades.map(item => <NovedadItem key={item.id}
                 title={item.titulo} subtitle={item.subtitulo}
-                body={item.cuerpo}/>)
+                body={item.cuerpo} imagen={item.imagen}/>)
 
             )}
         </section>
