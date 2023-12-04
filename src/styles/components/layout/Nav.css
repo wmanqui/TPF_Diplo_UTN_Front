@@ -21,9 +21,10 @@ nav ul li a{
 }
 
 nav ul li a:hover {
-    background-color: rgba(0,0,0,0.3);
+    /*background-color: rgba(0,0,0,0.3);*/
+    background-color: yellow;
 }
 
-nav ul li a.activo{
-    background-color: #4c76a5;
+nav ul li a:active {
+    background-color: #a5534c;
 }

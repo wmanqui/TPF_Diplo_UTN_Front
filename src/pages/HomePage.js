@@ -7,8 +7,8 @@ const HomePage = (prompt) =>{
             <div className="home_img">
                 <img src="img/home/img_01.png" alt="constructor"/>
             </div>
-            <div className="columns">
-                <div className="welcome">
+            <div className="columnas">
+                <div className="bienbenidos">
                     <h2>Bienvenidos</h2>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur odit assumenda rerum voluptates odio explicabo repudiandae quasi? Sunt nisi consectetur molestias optio commodi! Modi voluptates, laboriosam pariatur ab at ullam.</p>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur odit assumenda rerum voluptates odio explicabo repudiandae quasi? Sunt nisi consectetur molestias optio commodi! Modi voluptates, laboriosam pariatur ab at ullam.</p>
