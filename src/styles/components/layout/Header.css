@@ -1,15 +1,21 @@
 header{
-    background-color: #9b8189;
+    background-color: black;
     padding: 16px 0;
 }
 
 header h1{
-    color:rgb(68, 0, 0);
+    color:rgb(246, 174, 19);
     font-size: 40px;
     font-weight: 100;
-    /*font-style: italic;*/
+    font-style:normal; 
     display: inline-block;
     position: relative;
     bottom: 35px;
     margin-left: 10px;
+}
+header h5{
+    color:rgb(246, 174, 19);
+    font-size: 20px;
+    position: center;
+
 }

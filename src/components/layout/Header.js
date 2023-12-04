@@ -5,9 +5,12 @@ const Header = (prompt) =>{
     return(
         <header>
             <div>
-                <img src="img/logo.png" width="300" alt="Kreen Tecnology"/>
-                <h1>Empresa de Soluciones Tecnologicas</h1>
-            </div>
+                <img src="img/logo.png" width="100" alt="logo-fusion-rg"/>
+                <h1>FUSION</h1>
+                <div>
+                    <h5>Instalaciones para tu obra</h5>
+                </div>
+             </div>
         </header>
 
     );

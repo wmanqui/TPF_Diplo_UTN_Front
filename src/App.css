@@ -2,7 +2,7 @@ body{
   font-family: 'Open Sans', sans-serif ;
   font-size: 16px;
   line-height: 20px;
-  background-color: burlywood;
+  background-color: rgb(188, 103, 7);
 }
 
 .holder{
@@ -11,6 +11,6 @@ body{
 }
 
 h2{
-  color: #2e64a1;
+  color: white;
   font-weight: 400;
 }
