@@ -43,6 +43,7 @@ const ContactPage = (props) => {
         <main className="holder contacto">
             <div>
                 <h2>Contacto Rapido</h2>
+                
                 <form action="/contact" method="post" onSubmit={handleSubmit} className="formulario" >
                     <p>
                         <label>Nombre</label>
@@ -50,7 +51,7 @@ const ContactPage = (props) => {
                     </p>
                     <p>
                         <label>Email</label>
-                        <input type='text' name='email' value={formData.email} onChange={handleChange}/>
+                        <input type='email' name='email' value={formData.email} onChange={handleChange}/>
                     </p>
                     <p>
                         <label>Telefono</label>
@@ -67,15 +68,14 @@ const ContactPage = (props) => {
             </div>
             <div className="datos">
                 <h2>Otras vias de comunicación</h2>
-                 <p>Tambien puede contactarse utilizando los siguientes medios</p>
-                 <ul>
+                <p>Tambien puede contactarse utilizando los siguientes medios</p>
+                  <ul>
                     <li>Teléfono: (2964)432731</li>
                     <li>email: contacto@kren.com.ar</li>
                     <li>facebock: </li>
                     <li>Twitter: </li>
                     <li>Skype: </li>
-                 </ul>
-
+                  </ul>
             </div>
         </main>
     )
