@@ -17,26 +17,26 @@ const UsPage = (prompt) =>{
                 <div className="personas">
                     <div className="persona">
                         <img src="img/us/nosotros1.jpg" alt=""/>
-                        <h5>Juan Gomez</h5>
-                        <h6>Gerente General</h6>
+                        <h5>Javier Marin</h5>
+                        <h6>Ventas y Atención al Público</h6>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
                     </div>
                     <div className="persona">
                         <img src="img/us/nosotros1.jpg" alt=""/>
-                        <h5>Juan Perez</h5>
-                        <h6>Gerente General</h6>
+                        <h5>Ruben Gutierrez</h5>
+                        <h6>Compras y Presupuestos</h6>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
+                    </div>
+                    <div className="persona">
+                        <img src="img/us/nosotros1.jpg" alt=""/>
+                        <h5>Patricio Gimenez</h5>
+                        <h6>Envios e Instalación</h6>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
                     </div>
                     <div className="persona">
                         <img src="img/us/nosotros1.jpg" alt=""/>
                         <h5>Juan Gomez</h5>
-                        <h6>Gerente General</h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
-                    </div>
-                    <div className="persona">
-                        <img src="img/us/nosotros1.jpg" alt=""/>
-                        <h5>Juan Gomez</h5>
-                        <h6>Gerente General</h6>
+                        <h6>Administración y Pagos</h6>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
                     </div>
                 </div>
