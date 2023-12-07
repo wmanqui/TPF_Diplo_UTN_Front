@@ -23,7 +23,7 @@ const UsPage = (prompt) =>{
                     </div>
                     <div className="persona">
                         <img src="img/us/nosotros1.jpg" alt=""/>
-                        <h5>Juan Gomez</h5>
+                        <h5>Juan Perez</h5>
                         <h6>Gerente General</h6>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
                     </div>
