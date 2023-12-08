@@ -5,7 +5,7 @@ const HomePage = (prompt) =>{
     return(
         <main className="holder">
             <div className="home_img">
-                <img src="img/home/img_01.png" alt="constructor"/>
+                <img src="img/home/img_02.png" alt="constructor"/>
             </div>
             <div className="columnas">
                 <div className="bienvenidos">
@@ -19,8 +19,20 @@ const HomePage = (prompt) =>{
                 <div className="testimonios">
                     <h2>Testimonios</h2>
                     <div className="testimonio">
-                        <span className="cita">Simplemente Excelente</span>
-                        <span className="autor"> Juan Perez</span>
+                        <span className="cita">Excelente atención y rapida respuesta.</span>
+                        <span className="autor"> Sol Perez</span>
+                    </div>
+                    <div className="testimonio">
+                        <span className="cita">La construcción los necesitaba en Rio Gallegos</span>
+                        <span className="autor"> Joaquin Mendez</span>
+                    </div>
+                    <div className="testimonio">
+                        <span className="cita">Muy buenos precios y atención</span>
+                        <span className="autor"> Gerardo Arias</span>
+                    </div>
+                    <div className="testimonio">
+                        <span className="cita">Los volveria a contratar!</span>
+                        <span className="autor"> Victor Lugo</span>
                     </div>
                 </div>
             </div>

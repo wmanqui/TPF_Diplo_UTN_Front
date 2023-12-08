@@ -1,6 +1,7 @@
 nav{
     background-color: orange;
     margin-bottom: 20px;
+    
 }
 nav ul{
     list-style: none;
@@ -22,9 +23,9 @@ nav ul li a{
 
 nav ul li a:hover {
     /*background-color: rgba(0,0,0,0.3);*/
-    background-color: yellow;
+    background-color: grey;
 }
 
 nav ul li a.activo {
-    background-color: #a5534c;
+    background-color:yellow;
 }

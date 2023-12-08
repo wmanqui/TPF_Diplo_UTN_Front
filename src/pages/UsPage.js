@@ -16,28 +16,28 @@ const UsPage = (prompt) =>{
                 <h2>Staff</h2>
                 <div className="personas">
                     <div className="persona">
-                        <img src="img/us/nosotros1.jpg" alt=""/>
+                        <img src="img/us/nosotros1.png" alt=""/>
                         <h5>Javier Marin</h5>
                         <h6>Ventas y Atención al Público</h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
+                        <p>¡Hola! Soy javier, tu experto en ventas y atención al cliente. Mi pasión es ofrecerte una experiencia única y personalizada, porque para mí, cada cliente es especial. Con una sonrisa en el rostro y una actitud positiva, estoy aquí para hacer que tu día sea aún mejor.</p>
                     </div>
                     <div className="persona">
-                        <img src="img/us/nosotros1.jpg" alt=""/>
+                        <img src="img/us/nosotros2.png" alt=""/>
                         <h5>Ruben Gutierrez</h5>
                         <h6>Compras y Presupuestos</h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
+                        <p>¡Hola, soy Ruben, tu especialista en compras y presupuestos! Mi misión es hacerte sentir seguro y emocionado al navegar por nuestras opciones. Siempre estoy aquí para encontrar las mejores soluciones que se adapten a tus necesidades y presupuesto. ¿Listo para explorar juntos?</p>
                     </div>
                     <div className="persona">
-                        <img src="img/us/nosotros1.jpg" alt=""/>
+                        <img src="img/us/nosotros3.png" alt=""/>
                         <h5>Patricio Gimenez</h5>
                         <h6>Envios e Instalación</h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
+                        <p>¡Hola, soy Pato!, tu experto en envíos e instalación! Mi objetivo es llevar la comodidad directamente a tu puerta y asegurarme de que todo esté listo para que disfrutes al máximo. Estoy aquí para hacer que todo el proceso sea lo más fácil y agradable posible. ¿Listo para transformar tu espacio?</p>
                     </div>
                     <div className="persona">
-                        <img src="img/us/nosotros1.jpg" alt=""/>
-                        <h5>Juan Gomez</h5>
+                        <img src="img/us/nosotros4.png" alt=""/>
+                        <h5>Cristina Paez</h5>
                         <h6>Administración y Pagos</h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo cum dolorem maiores sapiente vero illum molestias. Eligendi eius possimus enim, molestias consequuntur architecto voluptatum! Eveniet eius ullam repellendus odio.</p>
+                        <p>¡Hola, soy Cris!, tu aliada en administración y pagos! Mi enfoque es hacer que todo el proceso sea suave y sin estrés para que puedas centrarte en lo que realmente importa. Estoy aquí para manejar los detalles y garantizar que tus transacciones sean fáciles y seguras. ¿Preparado para una administración sin complicaciones?</p>
                     </div>
                 </div>
             </div>

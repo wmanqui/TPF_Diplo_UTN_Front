@@ -71,11 +71,10 @@ const ContactPage = (props) => {
                 <p>Tambien puede contactarse utilizando los siguientes medios</p>
                   <ul>
                     <li>Teléfono: (2964)432731</li>
-                    <li>email: contacto@kren.com.ar</li>
-                    <li>facebock: </li>
-                    <li>Twitter: </li>
-                    <li>Skype: </li>
-                  </ul>
+                    <li>email: contacto@fusion.com.ar</li>
+                    <li>facebock: fusion_rg</li>
+                    <li>Instagram: fusion_rg </li>
+                   </ul>
             </div>
         </main>
     )
